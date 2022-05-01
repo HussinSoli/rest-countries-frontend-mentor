@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rest-countries-frontend-mentor/static/css/main.d9f337d8.css",
+    "main.js": "/rest-countries-frontend-mentor/static/js/main.e2d2a649.js",
+    "index.html": "/rest-countries-frontend-mentor/index.html",
+    "main.d9f337d8.css.map": "/rest-countries-frontend-mentor/static/css/main.d9f337d8.css.map",
+    "main.e2d2a649.js.map": "/rest-countries-frontend-mentor/static/js/main.e2d2a649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f337d8.css",
+    "static/js/main.e2d2a649.js"
+  ]
+}
